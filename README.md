@@ -1,3 +1,3 @@
 # image-upload
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/phabdev/image-upload)
+A simple tool to upload and share images
